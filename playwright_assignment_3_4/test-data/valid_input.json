@@ -1,0 +1,9 @@
+{
+    "facility": "Hongkong CURA Healthcare Center",
+    "healthcareProgram": "Medicaid",
+    "visitDate": {
+        "day": "2",
+        "month": "Apr"
+    },
+    "comment": "test comment"
+}
